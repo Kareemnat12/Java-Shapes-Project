@@ -27,12 +27,12 @@ Main.java: A class that contains the main method to test and demonstrate the fun
 
 How to Run
 1- Clone the Repository:
-  git clone <repository-url>
+  git clone https://github.com/Kareemnat12/JavaShapesProject
 Navigate to the Project Directory:
 
 
 2-Copy code
-  cd <project-directory>
+  cd JavaShapesProject
 3- Compile the Java Files: Ensure you have Java installed and set up in your environment. You can compile the Java files using the following command:
   javac Shape.java Circle.java Rectangle.java Square.java Main.java
 4- Run the Main Class: After successful compilation, you can run the Main class to see the output.
